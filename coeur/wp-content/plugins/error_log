@@ -1,0 +1,1 @@
+[27-Feb-2017 09:06:48 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home3/chinaout/public_html/coeur/wp-content/plugins/hello.php on line 60

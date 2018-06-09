@@ -1,0 +1,1 @@
+[04-Mar-2017 02:50:12 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home3/chinaout/public_html/coeur/wp-content/themes/twentyfourteen/404.php on line 10

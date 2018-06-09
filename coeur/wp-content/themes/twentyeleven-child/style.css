@@ -1,0 +1,56 @@
+/*
+Theme Name: Twenty Eleven Child
+Description: Child theme for the Twenty Eleven theme
+Author: Beverley Delay
+Template: twentyeleven
+Version: 1.0
+*/
+
+@import url("../twentyeleven/style.css");
+
+#site-title {
+	padding-top: none;
+}
+/* Search Form */
+#branding #searchform {
+	display: none;
+}
+#main,
+.singular.page .hentry {padding:0;}
+
+#site-title {
+display: none;
+}
+#access {
+	background: #636262; /* Show a solid color for older browsers */
+	}
+	#access ul {
+	font-size: 15px;
+	}
+.entry-title {
+	color: #C1262C;
+	font-size: 22px;
+	font-weight: bold;
+	line-height: 1.5em;
+	padding-bottom: .3em;
+	padding-top: 15px;
+}
+.entry-title,
+.entry-title a {
+	color: #C1262C;
+	text-decoration: none;
+}
+.entry-title a:hover,
+.entry-title a:focus,
+.entry-title a:active {
+	color: #636262;
+}
+#site-generator {
+	background: #BE282A;
+	border-top: 1px solid #fff;
+	color: #fff;
+	font-size: 12px;
+	line-height: 2.2em;
+	padding: 2.2em 0.5em;
+	text-align: center;
+}
