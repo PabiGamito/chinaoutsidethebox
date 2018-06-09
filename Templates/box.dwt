@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>China Outside the Box</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+</style>
+<link href="../china.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+body {
+	background-color: #BE282A;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+</style>
+<style type="text/css">
+
+#reds a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #BE282A;
+}
+#reds a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #BE282A;
+}
+#reds a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #999999;
+	font-weight: normal;
+}
+#black a:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bolder;
+	color: #000000;
+}#black  a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000000;
+}
+#black  a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000000;
+}
+#black  a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #BE282A;
+	font-weight: normal;
+}
+#reds a:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bolder;
+	color: #BE282A;
+}		
+.button a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000000;
+}
+.button a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #BE282A;
+}
+.button a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #999999;
+	font-weight: normal;
+}
+.button a:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bolder;
+	color: #BE282A;
+}a:link {
+	color: #CCC;
+}
+a:visited {
+	color: #CCC;
+}
+a:hover {
+	color: #FFF;
+}
+a:active {
+	color: #CCC;
+}
+html {
+	overflow-y: scroll; 
+}
+.style{
+   overflow: show;
+}
+
+</style>
+
+
+
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+</script>
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link rel="shortcut icon" href="/favicon.ico" >
+<script type="text/javascript">
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36743487-1']);
+  _gaq.push(['_trackPageview']);
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+</script>
+</head>
+
+<body>
+<div class="whiteband2" id="whiteband2">
+  <div class="main_panel2" id="main_panel2">
+    <div class="box_logo" id="box_logo"><!-- TemplateBeginEditable name="EditRegion3" --><!-- TemplateEndEditable --></div>
+    <img src="../images/magic_box.jpg" width="90" height="85" /><br />
+    <p>
+    </p>
+    <div class="box_main" id="box_main"><!-- TemplateBeginEditable name="EditRegion4" --><!-- TemplateEndEditable --></div>
+  </div>
+  <p><br />
+  </p>
+</div>
+</body>
+</html>
